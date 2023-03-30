@@ -1,3 +1,4 @@
+                #name , kosher , type , hour opening (morning 1 = 7:00 - 12:00 ,noon 2 = 12:00 - 16:00 ,night 3 = 16:00 - 21:00+ , 4 = all together) , palce , website link
 restaurants = [["Moshbutz" , False , "meat" ,  4  ,"ramot", "https://moshbutz.co.il/" ],
                 ["bukrim restaurants" , True ,"meat" , 4 , "marom golan" , "https://www.meromgolantourism.co.il/restaurants"],
                 ["Meatshos" , True , "meat" , 4 , " katzrin ", "https://www.meatshos.co.il/index.php?dir=site&page=content&cs=5024" ],
