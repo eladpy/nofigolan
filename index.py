@@ -1,0 +1,1 @@
+restaurant = [dodis : 'givat']
